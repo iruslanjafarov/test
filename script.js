@@ -1,7 +1,7 @@
 //Интерфейс
 const type = prompt("Введите оператор");
-const first = +prompt("Введите первое число",);
-const second = +prompt("Введите второе число",);
+const first = +prompt("Введите первое число");
+const second = +prompt("Введите второе число");
 
 //Модуль для факториала
 function factorial(n, result = 1){
